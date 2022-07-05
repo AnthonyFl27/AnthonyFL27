@@ -1,3 +1,6 @@
+<img align="left" height="150" src="cat.gif"/>
+
+
 ```diff
 [at27@void ~]$ fetch
 @@im Anthony, trying to program something@@
