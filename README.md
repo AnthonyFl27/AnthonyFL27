@@ -1,4 +1,3 @@
-<img align="left" height="150" src="cat.gif"/>
 
 
 ```diff
